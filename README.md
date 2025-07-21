@@ -4,6 +4,11 @@
 
 ---
 
+###Live сервер (перегляд)
+https://e-shop-frontend-pink.vercel.app/
+
+---
+
 ## Технології
 
 - React
